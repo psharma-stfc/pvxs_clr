@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PvxsCLR/.vs
+/PvxsCLR/obj
+/PvxsCLR/x64/Debug
+/PvxsConsole/obj
+/x64/Debug
+/PvxsCLR/x64/Release
+/x64/Release/net8.0-windows
